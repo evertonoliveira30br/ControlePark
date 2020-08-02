@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Dkp.DkpLogistica/v15/Server/sqlite3
+/.vs/Dkp.DkpLogistica/v15/.suo
+/.vs/config/applicationhost.config
+/Dkp.DkpLogistica.API/obj/Release/Package/PackageTmp
+/Dkp.DkpLogistica.API/obj/Release/TransformWebConfig
+/Dkp.DkpLogistica.API/obj/Release
+/Dkp.DkpLogistica.Portal/obj/Release/Package/PackageTmp
+/Dkp.DkpLogistica.Portal/obj/Release
+/.vs/Dkp.DkpLogistica/v16/Server/sqlite3
+/.vs/Dkp.DkpLogistica/v16/.suo
+/.vs/Dkp.DkpLogistica/config/applicationhost.config
+*.suo
+*.sqlite
+/Dkp.DkpLogistica.API/*
+/Dkp.DkpLogistica.API/bin/*
+/Dkp.DkpLogistica.Portal/bin/*
+/Dkp.DkpLogistica.API/obj/*
+/Dkp.DkpLogistica.Portal/obj/*
+*.2019-
+*.log.*
